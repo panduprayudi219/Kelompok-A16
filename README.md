@@ -1,4 +1,4 @@
-#Kelompok-A16
+
 Mengumpulkan Tugas Kelompok A16 - PROGATE
 
 Dalam tugas ini membuat website statis. APA ITU WEBSITE STATIS ?
